@@ -10,10 +10,10 @@ Happy writing ! Sharing is caring :)
 [This file is at the root level as the README.md](file2.md)
   - link pointing to a file in the root level
     
-[This file resides in the /hubby folder](/hubby/projects.md)
+[This file resides in the /hubby folder](./hubby/projects.md)
   - Link pointing to a file inside folder
     
-[This file resides in the /hubby/math folder](/hubby/math/list1.md)
+[This file resides in the /hubby/math folder](../hubby/math/list1.md)
   - Link pointing to a file inside nested folder
     
 ### External links

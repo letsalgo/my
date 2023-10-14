@@ -1,4 +1,4 @@
-# Different types of links that are supported by Github markdown
+## Different types of links that are supported by Github markdown
 Here all different types of links that can be used in a markdown file is listed.
 All of this links are also supported at https://interviewdose.com processors.
 Please use these types of link in your content and write some blog or questions for the site.
@@ -16,7 +16,7 @@ Happy writing ! Sharing is caring :)
 [This file resides in the /hubby/math folder](/hubby/math/list1.md)
   - Link pointing to a file inside nested folder
     
-## External links
+### External links
 These are the links which are fully qualified domains 
 which are outside of your domain.
 - This is a link which doesn't need any formatting https://google.com
@@ -24,10 +24,10 @@ which are outside of your domain.
 - This is a hyper link which <a href="https://google.com" target="_blank">opens in a new tab</a>
   - Github opens in the same page but once you see in our website it takes to a new tab
 
-## Section 1
+### Section 1
 Look at the extra # Section 1 and space after #. Link in bracket starts with an anchor (#) and all the spaces are replaced with -
 Some content for Section 1
 
-## Section 2
+### Section 2
 Look at the extra # for Section 2 and space after #. Link in bracket starts with an anchor (#) and all the spaces are replaced with -
 Some content for Section 2

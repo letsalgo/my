@@ -24,4 +24,4 @@ Consider your successes and failures in relation to the Leadership Principles. U
 
 We use our Leadership Principles every day. They are crucial to discussing ideas for new projects and to deciding the best ways to solve problems. They're just one of the things that makes us peculiar. All candidates are evaluated based on these principles. The best way to prepare for your interview is to consider how you’ve applied them in your past. Below are the 16 Leadership principles that are focued in the behavioral rounds.
 
-[My hubby projects](/hubby/projects.md)
+[My hubby projects](./hubby/projects.md)

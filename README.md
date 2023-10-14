@@ -25,4 +25,4 @@ This file resides in the /hubby folder
 
 ## File inside a nested folder
 This file resides in the /hubby/math folder
-[My hubby math projects](./hubby/math/list1.md)
+[My hubby math projects](./hubby/maths/list1.md)

@@ -4,13 +4,14 @@ All of this are supported at interviewdose.com , Go and share some contens or qu
 
 - [Section 1](#section-1)
 - [Section 2](#section-2)
-- [link pointing to a file in the root level](file2.md)
+
+[link pointing to a file in the root level](file2.md)
   - This file is at the root level as the README.md
     
-- [link pointing to a file inside folder](/hubby/projects.md)
+[link pointing to a file inside folder](/hubby/projects.md)
   - This file resides in the /hubby folder
     
-- [link pointing to a file inside nested folder](/hubby/math/list1.md)
+[link pointing to a file inside nested folder](/hubby/math/list1.md)
   - This file resides in the /hubby/math folder
     
 ## External links

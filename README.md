@@ -1,8 +1,8 @@
 # Amazon HR interview questions and answers
 Behavioral interviews are an integral part of the hiring process at Amazon. These questions cover a range of topics, such as your experience, problem-solving abilities, teamwork skills, and ability to handle challenging situations.
 
-- [Star answer format](#star_answer_format)
-- [Amazon Leadership principles](#amazon_Leadership_principles)
+- [Star answer format](#star-answer-format)
+- [Amazon Leadership principles](#amazon-Leadership-principles)
 
 ## Star answer format
 

@@ -34,5 +34,4 @@ which are outside of your domain.
 - This is a link which doesn't need any formatting https://google.com
 - This is a hyper link which has different text than its actual link [different text](https://google.com)
 - This is a hyper link which opens a new tab <a href="https://google.com" target="_blank">Opens in a new tab</a>
-- <a href="http://stackoverflow.com" target="_blank">Go</a>
-- [go](http://stackoverflow.com){:target="_blank"}
+  - Github opens in the same page but once you see in our website it takes to a new tab

@@ -30,5 +30,7 @@ This file resides in the /hubby/math folder
 
 ## External links
 These are the links which are fully qualified domains 
-which are outside of your domain for example https://google.com ,no need of any formatting
-But if you want to show it with a [different text](https://google.com) this is the syntax.
+which are outside of your domain.
+- This is a link which doesn't need any formatting https://google.com
+- This is a hyper link which has different text than its actual link [different text](https://google.com)
+- This is a hyper link which opens a new tab <a href="https://google.com" target="_blank">Opens in a new tab</a>

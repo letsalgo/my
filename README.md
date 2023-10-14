@@ -25,9 +25,9 @@ which are outside of your domain.
   - Github opens in the same page but once you see in our website it takes to a new tab
 
 ### Section 1
-Look at the extra # Section 1 and space after #. Link in bracket starts with an anchor (#) and all the spaces are replaced with -
+Look at the extra # Section 1 and space after #. Link in bracket starts with an anchor (#) and all the spaces are replaced with -  
 Some content for Section 1
 
 ### Section 2
-Look at the extra # for Section 2 and space after #. Link in bracket starts with an anchor (#) and all the spaces are replaced with -
+Look at the extra # for Section 2 and space after #. Link in bracket starts with an anchor (#) and all the spaces are replaced with -  
 Some content for Section 2

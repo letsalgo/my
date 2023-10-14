@@ -23,6 +23,13 @@ which are outside of your domain.
 - This is a hyper link which has different text than it's actual link [Click here](https://google.com)
 - This is a hyper link which <a href="https://google.com" target="_blank">opens in a new tab</a>
   - Github opens in the same page but once you see in our website it takes to a new tab
+ 
+### Embed youtube links
+You can take one of the two below approach to add a youtube link to your content. 
+- Copy the <youtubeId> and use <embed> url. Using embed and target _blank users won't go out of the website e.g
+  - <a href="https://youtube.com/embed/HvMc-ECHTWk" target="_blank">Standard way of adding a youtube embed link</a>
+- Youtube provide different types of thumbnails for the video use one of them to be used to link to the video e.g
+  - [![Added a hqdefault thumbnail image by youtube to link to the youtube](https://img.youtube.com/vi/Pz0CbXA4mn8/hqdefault.jpg)](https://youtube.com/embed/Pz0CbXA4mn8)
 
 ### Section 1
 Look at the extra # Section 1 and space after #. Link in bracket starts with an anchor (#) and all the spaces are replaced with -  

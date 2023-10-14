@@ -1,4 +1,4 @@
-# Different types of links that are supported by Github
+# Different types of links that are supported by Github markdown
 Here all different types of links that can be used in a markdown file is listed.
 All of this links are also supported at https://interviewdose.com processors.
 Please use these types of link in your content and write some blog or questions for the site.

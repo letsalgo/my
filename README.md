@@ -1,6 +1,6 @@
-# Here is the heading for your home page
+# Different types of links that are supported by Github and interviewdose.com
 Here all different types of links that can be used in a markdown file is listed.
-All of this are supported at interviewdose.com , Go and share some contens or questions to encourage us.
+All of this links are supported at interviewdose.com. Please refer this as your starting point to write some blog or questions for the site. Happy writing ! Sharing is caring :)
 
 - [Section 1](#section-1)
 - [Section 2](#section-2)

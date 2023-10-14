@@ -1,6 +1,8 @@
-# Different types of links that are supported by Github and interviewdose.com
+# Different types of links that are supported by Github
 Here all different types of links that can be used in a markdown file is listed.
-All of this links are supported at interviewdose.com. Please refer this as your starting point to write some blog or questions for the site. Happy writing ! Sharing is caring :)
+All of this links are also supported at https://interviewdose.com processors.
+Please use these types of link in your content and write some blog or questions for the site.
+Happy writing ! Sharing is caring :)
 
 - [Section 1](#section-1)
 - [Section 2](#section-2)

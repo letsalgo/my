@@ -1,10 +1,11 @@
-## Different types of links/texts markdown formats that you can use while publishing your content with us
+# Different types of links/texts markdown formats that you can use while publishing your content with us
 Interviewdose.com supports a wide range of Markdown formats, including those commonly used on platforms like GitHub. While it's designed to handle a variety of Markdown styles, it may also be compatible with additional formats not specifically mentioned here.  
 
 Here in this example all most all types of types of links, text that can be used in a markdown file is listed. You can refer this as your markdown manual for writing/editing any github markdown file that can be shared with us.
 
-Please use these types of link in your content and write some blog or questions for the site.
-Happy writing ! Sharing is caring :)
+Sharing is caring, Happy writing :)
+
+## Different types of links
 
 - [Section 1](#section-1)
 - [Section 2](#section-2)
@@ -25,7 +26,10 @@ which are outside of your domain.
 - This is a hyper link which has different text than it's actual link [Click here](https://google.com)
 - This is a hyper link which <a href="https://google.com" target="_blank">opens in a new tab</a>
   - Github opens in the same page but once you see in our website it takes to a new tab
- 
+    
+## Links with picture
+- [Added a default thumbnail image by youtube as an example](https://img.youtube.com/vi/Pz0CbXA4mn8/default.jpg)
+  
 ### Embed youtube links
 You can take one of the two below approach to add a youtube link to your content. 
 - Copy the <youtubeId> and use <embed> url. Using embed and target _blank users won't go out of the website e.g

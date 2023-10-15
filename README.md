@@ -7,8 +7,8 @@ Sharing is caring, Happy writing :)
 
 ## Different types of links
 
-- [Section 1](#section-1)
-- [Section 2](#section-2)
+- [Section 1 in this file](#section-1)
+- [Section 2 in this file](#section-2)
 
 [This file is at the root level as the README.md](file2.md)
   - link pointing to a file in the root level
@@ -27,8 +27,9 @@ which are outside of your domain.
 - This is a hyper link which <a href="https://google.com" target="_blank">opens in a new tab</a>
   - Github opens in the same page but once you see in our website it takes to a new tab
     
-## Links with picture
-- [Added a default thumbnail image by youtube as an example](https://img.youtube.com/vi/Pz0CbXA4mn8/default.jpg)
+## Links for media
+Here is an example for a default thumbnail by youtube for a video.  
+![Added a default thumbnail image by youtube as an example](https://img.youtube.com/vi/Pz0CbXA4mn8/default.jpg)
   
 ### Embed youtube links
 You can take one of the two below approach to add a youtube link to your content. 

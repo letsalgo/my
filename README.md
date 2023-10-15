@@ -35,7 +35,7 @@ Here is an example for a default thumbnail by youtube for a video.
 You can take one of the two below approach to add a youtube link to your content. 
 - Copy the <youtubeId> and use <embed> url. Using embed and target _blank users won't go out of the website e.g
   - <a href="https://youtube.com/embed/HvMc-ECHTWk" target="_blank">Standard way of adding a youtube embed link</a>
-- Youtube provide different types of thumbnails for the video use one of them to be used to link to the video e.g
+- Youtube provides different types of thumbnails for a video, use one of them to be used to link to the video e.g
   - [![Added a hqdefault thumbnail image by youtube to link to the youtube](https://img.youtube.com/vi/Pz0CbXA4mn8/hqdefault.jpg)](https://youtube.com/embed/Pz0CbXA4mn8)
 
 ### Section 1
